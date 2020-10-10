@@ -1,25 +1,29 @@
 ---
-title: "Accounting"
+title: "Co to jest NPS"
 date: 2018-11-18T12:33:46+10:00
 featured: true
 weight: 1
 ---
 
-Financial accounting (or financial accountancy) is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business.
+NPS to miara satysfakcji klienta, która jest **prosta do zebrania i zrozumienia**. Polega na tylko jednym pytaniu.
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
-# Objectives 
+# Dwa problemy
 
-Financial accounting and financial reporting are often used as synonyms.
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+1. Net Promoter Score 
+2. “Jeden wskaźnik który powinniście rozwijać” - Harvard Business Review, 2003
+3. Jedno pytanie! “Na ile byłabyś skłonna polecić (Firmę X) przyjacielowi lub koledze?”
 
 ## Relevance
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance. 
+Pierwszy:
+Próby “ulepszenia” badania przez dodawanie pytań
+Długie ankiety to niższy odsetek odpowiedzi
+Firmy próbują zgadnąć co ma wartość dla klienta 
+Drugi:
+Trudno przełożyć wyniki ankiet na konkretne akcje 
 
 > The ingredients of relevance are the predictive value and confirmatory value. 
 

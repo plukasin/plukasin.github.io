@@ -1,12 +1,14 @@
 ---
 layout: home
 title: QANS
-description: QANS pomoże poprawć NPS
-intro_image: "images/illustrations/pointing.svg"
+description: Pomagamy poprawć NPS
+intro_image: "images/illustrations/experience-3239623_640.jpg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# Popraw NPS Twojej organizacji. 
 
-Testowy tekst do testowej strony 
+“Co klient uznaje za wartość jest tak skomplikowane, że może być opisane tylko przez niego. Menadżerowie nie powinni nawet próbować tego zgadnąć, powinni zawsze i systematycznie szukać odpowiedzi u klienta.”
+
+- Peter Drucker, The Practice of Management, 1955 

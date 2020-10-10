@@ -5,20 +5,20 @@ title: 'QANS'
 
 google_analytics_id: null
 homepage:
-  show_call_box: true
+  show_call_box: false
 logo:
-  mobile: "images/logo/logo-mobile.svg"
-  desktop: "images/logo/logo.svg"
-  desktop_height: "36px"
+  mobile: "images/logo/Logo_50x50.png"
+  desktop: "images/logo/Logo_100x100.png"
+  desktop_height: "100px"
 footer:
-  copyright_text: 'Free Jekyll theme by <a class="zerostatic" href="https://www.zerostatic.io">www.zerostatic.io</a>'
+  copyright_text: 'Jekyll theme by <a class="zerostatic" href="https://www.zerostatic.io">www.zerostatic.io</a>, Image by <a href="https://pixabay.com/users/mohamed_hassan-5229782/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3239623">mohamed Hassan</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3239623">Pixabay</a>'
 
 seo:
   meta_og_title: "QANS"
   meta_og_type: "website"
   meta_og_url: "https://www.qans.pl"
-  meta_og_image: "https://raw.githubusercontent.com/zerostaticthemes/jekyll-serif-theme/master/screenshots/tn.png"
-  meta_og_description: "QANS - eksperci w poprawie NPS."
+  meta_og_image: ""
+  meta_og_description: "Popraw NPS Twojej organizacji. Użyj AI aby dowiedzieć się od swoich klientów co zmienić."
   meta_twitter_card: "summary"
   meta_twitter_site: ""
   meta_twitter_creator: ""
