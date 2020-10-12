@@ -6,80 +6,66 @@ weight: 1
 ---
 
 NPS to miara satysfakcji klienta, która jest **prosta do zebrania i zrozumienia**. Polega na tylko jednym pytaniu.
-
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
-
-# Dwa problemy
+Dobre wyniki NPS zwykle przekładają się na wzrost sprzedaży a co za tym idzie rozwój firmy. 
 
 
-1. Net Promoter Score 
-2. “Jeden wskaźnik który powinniście rozwijać” - Harvard Business Review, 2003
-3. Jedno pytanie! “Na ile byłabyś skłonna polecić (Firmę X) przyjacielowi lub koledze?”
+## Jeden wskaźnik który powinniście rozwijać
 
-## Relevance
+Ida NPS po praz pierwszy pokawiła się w eseju *“Jeden wskaźnik który powinniście rozwijać”* Frederick F. Reichheld'a opublikowanym grudniu 2003 w Harvard Business Review. 
+Tu jest link do tego oryginalnego eseju: [The One Number You Need to Growh](https://hbr.org/2003/12/the-one-number-you-need-to-grow)
+Warto go przeczytać. 
 
-Pierwszy:
-Próby “ulepszenia” badania przez dodawanie pytań
-Długie ankiety to niższy odsetek odpowiedzi
-Firmy próbują zgadnąć co ma wartość dla klienta 
-Drugi:
-Trudno przełożyć wyniki ankiet na konkretne akcje 
+Autor przez kilka lat analizował róźne ankiety i to jak odpowiedzi klientów przekładały się na ich zachowanie. 
+Chciał sprawdzic czy istnieje takie pytanie które bezpośrednio łączą się z ponownym zakupem lub poleceniem produktu.
 
-> The ingredients of relevance are the predictive value and confirmatory value. 
+Okazało się, że faktycznie istnieje takie pytanie. I nie jest to pytanie o satysfakcję z produktu czy lojalność.
+Pytanie na podstawie którego najlepiej można przewidzieć wzrost fimy brzmi:
+> “Na ile byłabyś skłonna polecić (Firmę X) przyjacielowi lub koledze?”
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
+Mając pytanie autor zaczął pracować nad skalą na której można je mierzyć. Jego celem było stworzyć możliwie prosty wskażnik.
+Dlatego zdecywał się na skalę od 0 do 10, gdzie 0 to "wcale nie skłonni polecić" a 10 "bardzo skłonni".
+Podczas analizy klientów, ich odpowiedzi i zachowań (ponownych zakupów) wyłoniły się trzy grupy:
+- "Promotorzy" - klienci z najwyźszym wskażnikiem ponownych zakupów i poleceń dawali 9 i 10
+- "Pasywnie zadowoleni" - teraz nazywani "Neutralnymi" dawali 7 i 8.
+- "Detraktorzy" - dawali 6 i mniej. 
 
-## Faithful Representation
+Ograniczyli grupę Promotorów tylko do najbardziej entuzjastycznie nastawionych klientów aby uniknąć rozmycia tej miary, co często się dzieje w standardowych badaniach satysfakcji, gdzie wszytkie oceny ponad "neutralna" są traktowane jako pozytywne.
+Aby uzyskać jedną spójną miarę którą można komunikować w całej organizacji autor zaproponował aby policzyć odetek Promotorów pomniejszony od odsetek Detraktorów. Tak powstała miara Net Promoter Score.
+Net jest tu nawiązaniem do Promotorów netto - liczba Promotorów pomniejszona o Detraktorów.
 
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
+## Utrzymanie NPS jako prostego wskaźnika
+W tamtym pierwszym eseju autor przedstawił kilka wskazówek jak wdrożyć NPS:
+- **Przebadać** - statystycznie istotną liczbę klientów. Chodzi o zapewnienie wystarczajo dużej próbki.
+- **Oprzeć się** pokusie dodawania dodatkowych pytań. Im dłuższa ankieta tym mniej osób ją wypełni. Można zadać dodatkowe pytania aby zdiagnozować problem ale powinny on być dostoswoane do grupy w której jest klient. Inne dla Promotorów, inne dla Neutralnych i jeszcze inne dla Detraktorów. 
+- **Policzyć** NPS na podstawie zebranych ankiet
+- **Porównać** wyniki między regionami, oddziałami lub segmentami klientów. 
+- **Poprawić** wynik. Najlepsze firmy osiągają wynik nawet 80%. To te które maja najbardziej entuzjastycznie nastawionych do siebie klientów.  
 
-## Enhancing Qualitative Characteristics
+## Popularność NPS 
+Od czasu tego eseju Frederick F. Reichheld opublikował wiele artykułów i napisał książkę na temat NPS. 
+Firma doradcza BAIN w której jest partnerem prowadzi portal [Net Promoter System](https://www.netpromotersystem.com/podcast/) w którym zamieszczane są materiały o tym jak porawić NPS. 
 
-### Verifiability
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
+Obecnie wiele firm prowadzi badania NPS i pracuje nad inicjatywami poprawy tego wskaźnika.
+Te inicjatywy często napotykają dwa problemy
+> Pierwszy: próby “ulepszenia” badania przez dodawanie pytań
 
-### Comparability
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
+- Firmy próbują zgadnąć co ma wartość dla klienta i pytać o to w ankiecie
+- Długie ankiety to niższy odsetek odpowiedzi
 
-### Understandability
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
+> Drugi: trudno przełożyć wyniki ankiet na konkretne akcje 
 
----
+- Firmy gromadzą duże zasoby danych, spędzają dużo środków na ich analizę a mimo to CEO i kadra kierownicza nie jest w stanie odpowiedzieć na pytanie **"co zrobić?"**
 
-## Statement of cash flows
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
+## Użycie AI 
 
-Cash Inflow | Outflow | Opening Balance
---- | --- | ---
-*Monday* | `Tuesday` | **Wednesday**
-1 | 2 | 3
+Nasza propozycja na rozwiązanie tych problemów to użycie AI i powrót do oryginalneji idei NPS z jednym prostym pytaniem. 
+
+<div class="row justify-content-center">
+      <div class="col-auto">
+        <a class="button button-primary" href="{{site.baseurl}}/services">Zobacz naszą ofertę</a>
+      </div>
+</div> 
 
 
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
 
-* Cash inflow: $20
-* Cash outflow:$7
-* Opening balance: $5
-* Closing balance: $20 – $7 + $5 = $18
 
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
-
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
-
-## Statement of financial position (balance sheet)
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement. 
-
-- **fixed assets**
-    - property
-    - building
-    - equipment (such as factory machinery)
-- **intangible assets**
-    - copyrights
-    - trademarks
-    - patents
-        - pending
-        - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.

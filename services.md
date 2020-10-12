@@ -4,27 +4,72 @@ layout: services
 
 ---
 
-## Poprawiamy NPS
+## Krótka odpowiedź - poprawiamy NPS
 
-Przeglądasz raport z najnowszymi wynikami badania NPS, badania skłonności klientów do polecenia produktu.
-Zaadoptowałeś ten wskaźnik w całej organizacji, zastępując skomplikowane, długie raporty gdyż NPS jest powszechnie uznawany za receptę na natłok informacji. Jeden wskaźnik, śledzony w całej organizacji. 
-Ale teraz mimo wielu inicjatyw, projektów i analiz, wskaźnik utknął i waha się między 30 a 40. 
-“Co zrobić by podnieść NPS”. Skupić się na tym co ma wartość dla klienta. 
+- Nasz produkt to Chatbot który prowadzi badanie NPS za pośrednictwem dialogu na stronie WWW Twojej firmy, Facebooku, WhatsApp lub w innym miejscu wygodnym dla Twojego klienta.
+- Analizuje tekst uzasadnienia odpowiedzi i generuje analizę głównych czynników poprawiających i osłabiających NPS. 
+- W trakcie interakcji z klientem proponuje interwencję (poprawia NPS) poprzez usunięcie problemu zgłoszonego przez klienta.
 
+## Długa odpowiedź
 
-Firmy zakładają, że to co ma wartość dla nich ma też wartość dla klienta.
-“Co klient uznaje za wartość jest tak skomplikowane, że może być opisane tylko przez klienta. Menadżerowie nie powinien nawet próbować tego zgadnąć. Powinien iść do klienta z misją poznania odpowiedzi”
-Firmy próbują zgadnąć co ma dla niego wartość i oceniają to w ankiecie zamiast pozwolić mu to wyartykułować. 
+Jeśli zastanawiasz się **“co zrobić by podnieść NPS?”** nasza podpowiedź brzmi:
+**"skupić się na tym co ma wartość dla klienta."**
+ 
+>|**Co ma wartość dla klienta?** to może być najważniejsze pytanie. A jednak jest ono tak żadko zadawane.
+>|[Peter Drucker](https://www.drucker.institute/wp-content/uploads/2018/08/Reading_Drucker-on-What-the-Customer-Values.pdf)
 
+Firmy wiedzą jaką wartość chcą wytwarzać, ale często nie rozumieją jej z perspektywy klienta. 
+Błędnie zakładają, że to co ma wartość dla nich ma też wartość dla niego.
 
-Nasze rozwiązanie to badanie za pomocą chat bota. Wyobraźcie sobie, że chcecie poznać opinie uczestników o Idealist. Porównać wyniki między rundami. Zamiast ankiety z wieloma pytaniami, w których musicie przewidzieć co mogło być dla klienta ważne, zadajecie tylko jedno pytanie o NPS z prośbą o uzasadnienie. Klient sam powie Wam o tym co jest dla niego najważniejsze. 
+A więc zacznijmy od tych założeń i sprawdźmy co Ty oraz managerowie i pracownicy myślą, że klienci cenią w Twojej firmie.
+Następnie porównajmy to z tym co faktycznie mówią. Znajdźmy różnicę i zamknijmy lukę.
 
-Chatbot prowadzi krótki wywiad. Z analizy tekstu otrzymujemy wskaźniki pokazujące jak pewne aspekty przekładają się na NPS. Np. Dla banku “fajna apka mobilna” jest skorelowana z wyższym NPS. “Kolejki w oddziałach” z niskim. Możemy zmierzyć skalę, ile osób wspomina o czymś, i zabarwienie (wysoki vs niski NPS). Dodatkowo czasie dialogu możemy edukować klienta. Np są klienci narzekający na opłaty za konto ale istnieją produkty gdzie opłat brak po spełnieniu pewnych wymagań. Można to klientowi uświadomić. Jednocześnie wydłużające się dialogi “tłumaczące” klientowi jakiś aspekt produktu powinny być sygnałem dla firmy, że produkt należy uprościć. 
+## Jak to zrobić w duchu Agile? 
+Drobnymi krokami.
 
-Zaletą dialogu nad ankietą jest to, że zaczynamy tylko z jednym pytaniem, a to zwiększa respons rate i możemy zadawać następne na podstawie uzyskanych odpowiedzi. Klient sam decyduje kiedy zakończyć dialog.  
+Najpierw poprosimy Twój zespół aby opisał dlaczego klienci polecają Twój produkt. Mogą to zrobić bezpośrednio na naszej platformie w sesji z chatbotem, w emailu lub możemy to opracować wspólnie. 
+Poprosimy też o opis istniejących rozwiązań na bolączki klientów o których już wiesz. Może klienci nie wiedzą o jakiejś opcji i ich reklamacje są do uniknięcia.
+Użyjemy tych danych do wytrenowania modelu dla naszego systemu AI który będzie prowadził dialog bezpośrednio z klientami.
 
-Możemy użyć metody Toyoty 5 razy dlaczego, aby dojść do źródła problemu. 
+Następnie zaprosimy do badania NPS grupę Twoich klientów. 
+Zamiast długiej ankiety zadamy im tylko jedno pytanie o NPS z prośbą o uzasadnienie. 
+> “Na ile byłabyś skłonna polecić (Firmę X) przyjacielowi lub koledze?”
 
-Sama technologia nie jest rozwiązaniem. 
-Potrzeba empatii i maksymalnego włączeniu ludzi w proces, 
-Ludzie często mówią nie o tym o co byli pytani 
+Klient sam powie nam o tym co jest dla niego najważniejsze w uzasadnieniu swojego wyboru. Z tej pierwszej odpowiedzi z uzasadnieniem mamy moźliwośc przejścia do dialogu.
+Zaletą dialogu nad ankietą jest to, że zaczynamy tylko z jednym pytaniem, a to zwiększa poziom odpowiedzi i możemy zadawać następne na podstawie uzyskanych odpowiedzi. Klient sam decyduje kiedy zakończyć dialog.  
+W kontekście NPS nie tylko inaczej poprowadzimy dialog z Promotorami, Neutralnymi czy Detraktorami, ale dzięki naszej platfromie AI skupimy się na obszarze którym interesuje się klient.
+
+Możemy użyć metody Toyoty [5 razy dlaczego](https://pl.wikipedia.org/wiki/Metoda_5_why), aby dojść do źródła problemu. 
+
+## Różnica między tradycyjnym badaniem a naszym rozwiązaniem 
+
+1. W tradycyjnym badaniu osoby z Twojej organizacji i agencji badawczej zastanawiają się jakie pytania zadać klientowi.
+2. Następnie ankietują grupę klientów i dostarczają organizazji dane na temat odpowiedzi wraz z różnymi prezentacjami i podsumowaniami. 
+3. Osoby w organizacji odpowiedzialen na Jakość, Sprzedaż, itp analizują te dane i 
+4. Komunikują do zespołów (IT, Obsługa klineta, itp) pomysły na temat potencjalnych inicjatyw które można wdrożyć aby poprawić NPS.
+
+To bardzo długotrwały proces. Po badaniu firma otrzymuje dużo danych i często nadal brak jest jasnych wizji co zrobić aby poprawić NPS.
+![Badanie NPS dawniej](/images/IMG_3680-1.jpeg)
+
+## Nasze rozwiązanie 
+
+1. W naszym rozwiązaniu nie ma żadnych założeń co do tego o co pytać klienta bo zadajemy my tylko jedno wstępne pytanie. 
+2. Z uzasadnienia, i dialogu, jeśli udaje nam się rozwinąć z klientem dialog, otrzymujemy wskaźniki pokazujące jak pewne tematy przekładają się na NPS.
+
+![Badanie NPS Obecnie](/images/IMG_3681-1.jpeg)
+
+Możemy zmierzyć skalę, ile osób wspomina o czymś, i zabarwienie (wysoki vs niski NPS). Dodatkowo w czasie dialogu możemy edukować klienta. 
+Gdy zbierzemy pierwszą grupę odpowiedzi umożliwimy osobom z Twojej organizacji zaprojektowanie odpowiedzi (lub dodatkowych pytań) dla aspektów wymagających zmian.  
+To jak prowadzenie dialogu z Twoimi klientami na masową skalę. 
+
+W wyniku projektu otrzymasz od nas listę konkretych aspektów Twojego produktu które wymagają zmian.
+
+## Zapraszamy do kontaktu
+
+>**W 6 tygodni otrzymujesz jasne wskazówki co zmienić aby poprawić NPS.**
+
+Jeśli chcesz wiedzieć więcej zapraszamy do kontaktu.
+
+![Meme](/images/illustrations/110165521_3147570258659626_6549190786476460560_n.jpg)
+
+Za moich czasów ankiety trwały 6 godzin i były 8 razy bardziej nudne. 

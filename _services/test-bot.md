@@ -2,7 +2,7 @@
 title: "Ikea BOT"
 date: 2018-11-28T15:14:39+10:00
 featured: true
-weight: 2
+weight: 3
 ---
 
 <style type="text/css">
@@ -15,8 +15,8 @@ Wypróbuj naszego bota. [Ikea Bot](#Ikea) to nasz testowy bot przygotowany
 do badania NPS dla sklepu IKEA. Możesz z nim **porozmawiać** i zobaczyć jak badanie wygląca dla kienta.
 
 
-## Ikea
-
+## NPS Ikea Bot 
+    
 <div class="chat-container"></div>
 
   <script src="https://npm-scalableminds.s3.eu-central-1.amazonaws.com/@scalableminds/chatroom@master/dist/Chatroom.js"/></script>
@@ -25,12 +25,12 @@ do badania NPS dla sklepu IKEA. Możesz z nim **porozmawiać** i zobaczyć jak b
       host: "http://localhost:5005",
       title: "Ikea NPS Bot",
       container: document.querySelector(".chat-container"),
-      welcomeMessage: "Jestem Ikea NPS Bot"
+      welcomeMessage: "Jestem Ikea NPS Bot- jeszcze nie działam"
     });
     chatroom.openChat();
   </script>
 
-## Jak wygląda konwersacja 
+## Jak przebiega  rozmowa
 
 Bot zapyta Cię jak bardzo jesteś gotowa polecić sklep na skali od 0 do 10. 
 Następnie poprosi o podanie głównych powodów tej oceny. 
