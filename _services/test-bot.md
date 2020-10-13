@@ -19,7 +19,7 @@ Na dole ekranu znajdziesz guzik który połączy Cię z naszym testowym botem.
     selector: "#webchat",
     initPayload: "/get_started",
     inputTextFieldHint: "Napisz coś",
-    socketUrl: "https://54.216.52.37",
+    socketUrl: "http://54.216.52.37",
     socketPath: "/socket.io/",
     title: "Ikea Test Bot",
     subtitle: "Uczę się",
