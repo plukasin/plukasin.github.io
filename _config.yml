@@ -12,6 +12,8 @@ logo:
   desktop_height: "100px"
 footer:
   copyright_text: 'Jekyll theme by <a class="zerostatic" href="https://www.zerostatic.io">www.zerostatic.io</a>, Image by <a href="https://pixabay.com/users/mohamed_hassan-5229782/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3239623">mohamed Hassan</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3239623">Pixabay</a>'
+  mobile: "images/logo/belka_logotypow_mobile.jpg"
+  desktop: "images/logo/belka_logotypow_big.jpeg"
 
 seo:
   meta_og_title: "QANS"
