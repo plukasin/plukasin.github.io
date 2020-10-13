@@ -13,11 +13,12 @@ do badania NPS dla sklepu IKEA. Możesz z nim **porozmawiać** i zobaczyć jak b
     
 <div id="webchat"></div>
 <script src="https://cdn.jsdelivr.net/npm/rasa-webchat/lib/index.min.js"></script>
-Na dole ekranu znajdzieś guzik który połączy Cię z naszym testowym botem. 
+Na dole ekranu znajdziesz guzik który połączy Cię z naszym testowym botem. 
 <script>
   WebChat.default.init({
     selector: "#webchat",
     initPayload: "/get_started",
+    inputTextFieldHint: "Napisz coś",
     socketUrl: "http://54.216.52.37",
     socketPath: "/socket.io/",
     title: "Ikea Test Bot",
