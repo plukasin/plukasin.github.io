@@ -1,4 +1,7 @@
 main:
+  - name: "Test Bot"
+    url: "/services/test-bot/"
+    weight: 1
   - name: "Oferta"
     url: "/services/"
     weight: 2

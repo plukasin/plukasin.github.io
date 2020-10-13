@@ -9,7 +9,9 @@ Bierzemy udział w III rundzie inkubacji platformy startowej [Idealist](http://i
 
 ## Spotkanie startupów III rundy inkubacji 
 
+<div class="videoWrapper">
 <iframe width="640" height="390" src="https://www.youtube.com/embed/8cpBaqtW34A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 
 [Spotkanie startupów III rundy inkubacji](http://idealist.pl/akademia-idealist-spotkanie-startupow-iii-rundy-inkubacji/)
