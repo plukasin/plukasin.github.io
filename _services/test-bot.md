@@ -5,8 +5,7 @@ featured: true
 weight: 3
 ---
 
-Wypróbuj naszego bota. IKEA BOT to testowy bot przygotowany 
-do badania NPS dla sklepu IKEA. Możesz z nim **porozmawiać** i zobaczyć jak badanie wygląda dla klienta.
+Wypróbuj naszego bota. Zobacz jak działa na przykładzie badania NPS sklepu Ikea. Możesz z nim **porozmawiać** i zobaczyć jak rozmowa wygląda dla klienta.
 
 ## NPS IKEA BOT 
     
@@ -20,24 +19,23 @@ Na dole ekranu znajdziesz guzik który połączy Cię z naszym testowym botem.
     inputTextFieldHint: "Napisz coś",
     socketUrl: "https://test.qans.pl",
     socketPath: "/socket.io/",
-    title: "Ikea Test Bot",
-    subtitle: "Uczę się",
+    title: "Rozmowa o Ikea",
+    subtitle: "Twoje doświadczenia z tym sklepem",
     params: {"storage": "session"} // can be set to "local"  or "session". details in storage section.
   })
 </script>
 
 ## Przebieg rozmowy
 
-Bot zapyta Cię jak bardzo jesteś gotowa polecić sklep na skali od 0 do 10. 
+Bot zapyta Cię jak bardzo jesteś gotowy/a polecić sklep na skali od 0 do 10. 
 Następnie poprosi o podanie głównych powodów tej oceny. 
-Twoja odpowiedź może być wstępem do rozmowy na temat tego co się Tobie w danym produkcie podoba, a co wymaga ulepszeń.
+Twoja odpowiedź może być wstępem do rozmowy na temat tego co się Tobie podoba lub wymaga ulepszeń.
 
-To jak rozwinie się konwersacja, a więc również jakie informacje uzyska bot, zależy od Twoich odpowiedzi. Gdzie to możliwe, system może podać wskazówki jak rozwiązać problem który zgłaszasz. Może są jakieś opcje których nie znałaś, albo inne sposoby na uzyskanie tego czego wydaje się brakować w ofercie. 
-Na zakończenie bot zapyta czy może Ty masz jakieś porady dla innych klientów sklepu. 
+To jak rozwinie się Wasza rozmowa, a więc również jakie informacje uzyska bot, zależy od Twoich odpowiedzi. Gdzie to możliwe, bot może podać wskazówki jak rozwiązać problem który zgłaszasz.  
+    
 ## To pierwsza wersja 
 
-To pierwsza wersja naszego bota więc jego możliwości dialogu są bardzo ograniczone. 
-Twoja rozmowa z botem pomoże nam go udoskonalić. Zapraszamy ponownie za tydzień. 
+Twoja rozmowa z botem pomoże nam udoskonalić bota. Zapraszamy ponownie za tydzień. 
 Zobaczysz jak dużo się nauczył.
 
 
