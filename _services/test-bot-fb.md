@@ -8,9 +8,9 @@ weight: 4
 Wypróbuj naszego bota. Zobacz jak działa na przykładzie badania skłonności do polecenia sklepu Ikea. Możesz z nim **porozmawiać** i zobaczyć jak rozmowa wygląda dla klienta.
 
 ## Bot o sklepie Ikea
-    
+      
 <!-- Load Facebook SDK for JavaScript -->
-      <div id="fb-root"></div>
+<div id="fb-root"></div>
       <script>
         window.fbAsyncInit = function() {
           FB.init({
@@ -19,7 +19,7 @@ Wypróbuj naszego bota. Zobacz jak działa na przykładzie badania skłonności 
           });
         };
 
-        (function(d, s, id) {
+(function(d, s, id) {
         var js, fjs = d.getElementsByTagName(s)[0];
         if (d.getElementById(id)) return;
         js = d.createElement(s); js.id = id;
@@ -27,15 +27,15 @@ Wypróbuj naszego bota. Zobacz jak działa na przykładzie badania skłonności 
         fjs.parentNode.insertBefore(js, fjs);
       }(document, 'script', 'facebook-jssdk'));</script>
 
-      <!-- Your Chat Plugin code -->
-      <div class="fb-customerchat"
+   <!-- Your Chat Plugin code -->
+   <div class="fb-customerchat"
         attribution="setup_tool"
         page_id="101959758349198"
   theme_color="#20cef5"
   logged_in_greeting="Napisz "cześć" aby rozpocząć "
   logged_out_greeting="Napisz "cześć" aby rozpocząć ">
-      </div>
-
+  </div>
+    
 ## Przebieg rozmowy
 
 Bot zapyta Cię jak bardzo jesteś gotowy/a polecić sklep na skali od 0 do 10. 
