@@ -30,7 +30,7 @@ Bot zapyta Cię jak bardzo jesteś skłonny/a polecić sklep na skali od 0 do 10
 Następnie poprosi o podanie głównych powodów tej oceny. 
 Twoja odpowiedź jest wstępem do rozmowy na temat tego co Ci się podoba, a co wymaga ulepszeń.
 
-Gdzie to możliwe, bot poda wskazówki jak rozwiązać problem który zgłaszasz.  
+W miarę swoich możliwości, bot będzie się starał podać Ci rozwiązania problemów, które zgłaszasz  
     
 ## Nieustannie udoskonalamy bota
 
