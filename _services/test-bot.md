@@ -1,17 +1,17 @@
 ---
-title: "IKEA BOT"
+title: "Bot dla Klientów sklepu Ikea"
 date: 2018-11-28T15:14:39+10:00
 featured: true
 weight: 3
 ---
 
-Wypróbuj naszego bota. Zobacz jak działa na przykładzie badania skłonności do polecenia sklepu Ikea. Możesz z nim **porozmawiać** i zobaczyć jak rozmowa wygląda dla klienta.
+Porozmawiaj z naszym botem o Twoich doświadczeniach ze sklepem Ikea.
 
-## NPS Ikea Bot
-    
+## Przebieg rozmowy
+
 <div id="webchat"></div>
 <script src="https://cdn.jsdelivr.net/npm/rasa-webchat/lib/index.min.js"></script>
-Na dole ekranu znajdziesz guzik który połączy Cię z naszym testowym botem. 
+Na dole ekranu znajdziesz przycisk, który połączy Cię z naszym botem. 
 <script>
   WebChat.default.init({
     selector: "#webchat",
@@ -21,22 +21,21 @@ Na dole ekranu znajdziesz guzik który połączy Cię z naszym testowym botem.
     socketPath: "/socket.io/",
     title: "Rozmowa o Ikea",
     subtitle: "Twoje doświadczenia z tym sklepem",
+    embedded: "true",
     params: {"storage": "session"} // can be set to "local"  or "session". details in storage section.
   })
 </script>
 
-## Przebieg rozmowy
-
-Bot zapyta Cię jak bardzo jesteś gotowy/a polecić sklep na skali od 0 do 10. 
+Bot zapyta Cię jak bardzo jesteś skłonny/a polecić sklep na skali od 0 do 10. 
 Następnie poprosi o podanie głównych powodów tej oceny. 
-Twoja odpowiedź jest wstępem do rozmowy na temat tego co się Tobie podoba lub wymaga ulepszeń.
+Twoja odpowiedź jest wstępem do rozmowy na temat tego co Ci się podoba, a co wymaga ulepszeń.
 
-To jak rozwinie się Wasza rozmowa, a więc również jakie informacje uzyska bot, zależy od Twoich odpowiedzi. Gdzie to możliwe, bot może podać wskazówki jak rozwiązać problem który zgłaszasz.  
+Gdzie to możliwe, bot poda wskazówki jak rozwiązać problem który zgłaszasz.  
     
-## To pierwsza wersja 
+## Nieustannie udoskonalamy bota
 
-Twoja rozmowa z botem pomoże nam udoskonalić bota. Zapraszamy ponownie za tydzień. 
-Zobaczysz jak dużo się nauczył.
+Twoja rozmowa z botem pomoże nam go nauczyć nowych zwrotów i tematów.
+Dziękujemy za pomoc!
 
 
 
