@@ -7,15 +7,13 @@ weight: 3
 
 Porozmawiaj z naszym botem o Twoich doświadczeniach ze sklepem Ikea.
 
-## Przebieg rozmowy
-
 <div id="webchat"></div>
 <script src="https://cdn.jsdelivr.net/npm/rasa-webchat/lib/index.min.js"></script>
 Na dole ekranu znajdziesz przycisk, który połączy Cię z naszym botem. 
 <script>
   WebChat.default.init({
     selector: "#webchat",
-        initPayload: "/przywitaj",
+    initPayload: "/przywitaj",
     inputTextFieldHint: "Napisz coś",
     socketUrl: "https://test.qans.pl",
     socketPath: "/socket.io/",
@@ -26,11 +24,13 @@ Na dole ekranu znajdziesz przycisk, który połączy Cię z naszym botem.
   })
 </script>
 
+## Przebieg rozmowy
+
 Bot zapyta Cię jak bardzo jesteś skłonny/a polecić sklep na skali od 0 do 10. 
 Następnie poprosi o podanie głównych powodów tej oceny. 
 Twoja odpowiedź jest wstępem do rozmowy na temat tego co Ci się podoba, a co wymaga ulepszeń.
 
-W miarę swoich możliwości, bot będzie się starał podać Ci rozwiązania problemów, które zgłaszasz  
+W miarę swoich możliwości, bot będzie się starał podać Ci rozwiązania problemów, które zgłaszasz.  
     
 ## Nieustannie udoskonalamy bota
 
