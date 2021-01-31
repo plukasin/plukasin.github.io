@@ -7,8 +7,11 @@ weight: 4
 
 Porozmawiaj z naszym botem o Twoich doświadczeniach ze sklepem Ikea.
 
-## Bot o sklepie Ikea
-  
+<div class="fb-customerchat"
+ page_id="@qansbot"
+ minimized="true">
+</div>
+
 <!-- Load Facebook SDK for JavaScript -->
 <div id="fb-root"></div>
 <script>
@@ -35,7 +38,7 @@ Porozmawiaj z naszym botem o Twoich doświadczeniach ze sklepem Ikea.
   theme_color="#20cef5"
   logged_in_greeting="Napisz "cześć" aby rozpocząć "
   logged_out_greeting="Napisz "cześć" aby rozpocząć ">
-</div>
+  </div>
   
 ## Przebieg rozmowy
 
