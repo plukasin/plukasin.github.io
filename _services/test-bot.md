@@ -9,7 +9,7 @@ Porozmawiaj z naszym botem o Twoich doświadczeniach ze sklepem Ikea.
 
 <div id="webchat"></div>
 <script src="https://cdn.jsdelivr.net/npm/rasa-webchat/lib/index.min.js"></script>
-Na dole ekranu znajdziesz przycisk, który połączy Cię z naszym botem. 
+
 <script>
   WebChat.default.init({
     selector: "#webchat",
