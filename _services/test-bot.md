@@ -9,21 +9,7 @@ Wypróbuj naszego bota. Zobacz jak działa na przykładzie badania skłonności 
 
 ## NPS Ikea Bot
     
-<div id="webchat"></div>
-<script src="https://cdn.jsdelivr.net/npm/rasa-webchat/lib/index.min.js"></script>
-Na dole ekranu znajdziesz guzik który połączy Cię z naszym testowym botem. 
-<script>
-  WebChat.default.init({
-    selector: "#webchat",
-        initPayload: "/przywitaj",
-    inputTextFieldHint: "Napisz coś",
-    socketUrl: "https://test.qans.pl",
-    socketPath: "/socket.io/",
-    title: "Rozmowa o Ikea",
-    subtitle: "Twoje doświadczenia z tym sklepem",
-    params: {"storage": "session"} // can be set to "local"  or "session". details in storage section.
-  })
-</script>
+
 
 ## Przebieg rozmowy
 
@@ -39,7 +25,21 @@ Twoja rozmowa z botem pomoże nam udoskonalić bota. Zapraszamy ponownie za tydz
 Zobaczysz jak dużo się nauczył.
 
 
-
+<div id="webchat"></div>
+<script src="https://cdn.jsdelivr.net/npm/rasa-webchat/lib/index.min.js"></script>
+Na dole ekranu znajdziesz guzik który połączy Cię z naszym testowym botem. 
+<script>
+  WebChat.default.init({
+    selector: "#webchat",
+        initPayload: "/przywitaj",
+    inputTextFieldHint: "Napisz coś",
+    socketUrl: "https://test.qans.pl",
+    socketPath: "/socket.io/",
+    title: "Rozmowa o Ikea",
+    subtitle: "Twoje doświadczenia z tym sklepem",
+    params: {"storage": "session"} // can be set to "local"  or "session". details in storage section.
+  })
+</script>
 
 
  
