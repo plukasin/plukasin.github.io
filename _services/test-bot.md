@@ -9,22 +9,6 @@ Wypróbuj naszego bota. Zobacz jak działa na przykładzie badania skłonności 
 
 ## NPS Ikea Bot
     
-
-
-## Przebieg rozmowy
-
-Bot zapyta Cię jak bardzo jesteś gotowy/a polecić sklep na skali od 0 do 10. 
-Następnie poprosi o podanie głównych powodów tej oceny. 
-Twoja odpowiedź jest wstępem do rozmowy na temat tego co się Tobie podoba lub wymaga ulepszeń.
-
-To jak rozwinie się Wasza rozmowa, a więc również jakie informacje uzyska bot, zależy od Twoich odpowiedzi. Gdzie to możliwe, bot może podać wskazówki jak rozwiązać problem który zgłaszasz.  
-    
-## To pierwsza wersja 
-
-Twoja rozmowa z botem pomoże nam udoskonalić bota. Zapraszamy ponownie za tydzień. 
-Zobaczysz jak dużo się nauczył.
-
-
 <div id="webchat"></div>
 <script src="https://cdn.jsdelivr.net/npm/rasa-webchat/lib/index.min.js"></script>
 Na dole ekranu znajdziesz guzik który połączy Cię z naszym testowym botem. 
@@ -40,6 +24,22 @@ Na dole ekranu znajdziesz guzik który połączy Cię z naszym testowym botem.
     params: {"storage": "session"} // can be set to "local"  or "session". details in storage section.
   })
 </script>
+
+## Przebieg rozmowy
+
+Bot zapyta Cię jak bardzo jesteś gotowy/a polecić sklep na skali od 0 do 10. 
+Następnie poprosi o podanie głównych powodów tej oceny. 
+Twoja odpowiedź jest wstępem do rozmowy na temat tego co się Tobie podoba lub wymaga ulepszeń.
+
+To jak rozwinie się Wasza rozmowa, a więc również jakie informacje uzyska bot, zależy od Twoich odpowiedzi. Gdzie to możliwe, bot może podać wskazówki jak rozwiązać problem który zgłaszasz.  
+    
+## To pierwsza wersja 
+
+Twoja rozmowa z botem pomoże nam udoskonalić bota. Zapraszamy ponownie za tydzień. 
+Zobaczysz jak dużo się nauczył.
+
+
+
 
 
  
