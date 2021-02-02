@@ -10,7 +10,7 @@ Wypróbuj naszego bota. Zobacz jak działa na przykładzie badania skłonności 
 ## NPS Ikea Bot
     
 <div id="webchat"></div>
-<script src="https://cdn.jsdelivr.net/npm/rasa-webchat@1.0.0/lib/index.js" type="text/javascript"></script>
+<script src="https://cdn.jsdelivr.net/npm/rasa-webchat/lib/index.min.js" type="text/javascript"></script>
 Na dole ekranu znajdziesz guzik który połączy Cię z naszym testowym botem. 
 <script>
   WebChat.default.init({
