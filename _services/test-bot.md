@@ -8,7 +8,7 @@ weight: 3
 Porozmawiaj z naszym botem o Twoich doświadczeniach ze sklepem Ikea.
 
 <div id="webchat"></div>
-<script src="https://cdn.jsdelivr.net/npm/rasa-webchat@0.11.5/lib/index.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/rasa-webchat@0.11.11/lib/index.min.js"></script>
 
 <script>
   WebChat.default.init({
