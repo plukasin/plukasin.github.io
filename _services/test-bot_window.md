@@ -1,0 +1,45 @@
+---
+title: "Badanie Satysfakcji Klientów Sklepu Ikea"
+date: 2018-11-28T15:14:39+10:00
+featured: true
+weight: 3
+---
+
+Porozmawiajmy o Twoich doświadczeniach ze sklepem Ikea.
+
+<div id="webchat"></div>
+<script src="https://cdn.jsdelivr.net/npm/rasa-webchat@0.11.11/lib/index.min.js"></script>
+Na dole znajduje się guzik do rozpoczęcia rozmowy. 
+
+<script>
+  WebChat.default.init({
+    selector: "#webchat",
+    initPayload: "/przywitaj",
+    inputTextFieldHint: "Napisz coś",
+    socketUrl: "https://test.qans.pl",
+    socketPath: "/socket.io/",
+    title: "Rozmowa o Ikea",
+    subtitle: "Twoje doświadczenia z tym sklepem",
+    params: {"storage": "session"} // can be set to "local"  or "session". details in storage section.
+  })
+</script>
+
+## Przebieg rozmowy
+
+Bot zapyta Cię jak bardzo jesteś skłonny/a polecić sklep na skali od 0 do 10. 
+Następnie poprosi o podanie głównych powodów tej oceny. 
+Twoja odpowiedź jest wstępem do rozmowy na temat tego co Ci się podoba, a co wymaga ulepszeń.
+
+W miarę swoich możliwości, bot będzie się starał podać Ci rozwiązania problemów, które zgłaszasz.  
+    
+## Nieustannie udoskonalamy bota
+
+Twoja rozmowa z botem pomoże nam go nauczyć nowych zwrotów i tematów.
+Dziękujemy za pomoc!
+
+
+
+
+
+ 
+
