@@ -11,22 +11,15 @@ Porozmawiaj z naszym botem o Twoich doświadczeniach ze sklepem Ikea.
 <script src="https://cdn.jsdelivr.net/npm/rasa-webchat@0.11.11/lib/index.min.js"></script>
 
 <script>
-const queryString = window.location.search;
-console.log(queryString);
-const urlParams = new URLSearchParams(queryString);
-const product = urlParams.get('product')
-const intro = "/inform[\"store_location\":\" " + product + " \"]"
-console.log(product);
-
   WebChat.default.init({
     selector: "#webchat",
-    initPayload: intro,
+    initPayload: "/przywitaj",
     inputTextFieldHint: "Napisz coś",
     socketUrl: "https://test.qans.pl",
     socketPath: "/socket.io/",
-    title: intro,
+    title: "Rozmowa o Ikea",
     subtitle: "Twoje doświadczenia z tym sklepem",
-    embedded: "false",
+    embedded: "true",
     params: {"storage": "session"} // can be set to "local"  or "session". details in storage section.
   })
 </script>
