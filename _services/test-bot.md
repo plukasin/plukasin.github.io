@@ -15,16 +15,18 @@ const queryString = window.location.search;
 console.log(queryString);
 const urlParams = new URLSearchParams(queryString);
 const product = urlParams.get('product')
+const intro = "/inform[\"store_location\":\" " + product + " \"]"
 console.log(product);
 
   WebChat.default.init({
     selector: "#webchat",
-    initPayload: "/inform[\"store_location\":\"Warszawa\"]",
+    initPayload: intro,
     inputTextFieldHint: "Napisz coś",
     socketUrl: "https://test.qans.pl",
     socketPath: "/socket.io/",
-    title: product,
+    title: intro,
     subtitle: "Twoje doświadczenia z tym sklepem",
+    embedded: "false",
     params: {"storage": "session"} // can be set to "local"  or "session". details in storage section.
   })
 </script>
