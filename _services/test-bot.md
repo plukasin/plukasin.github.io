@@ -19,13 +19,13 @@ console.log(product);
 
   WebChat.default.init({
     selector: "#webchat",
-    initPayload: "/inform[\"store_location\":\"warszawa\"]",
+    initPayload: "/inform[\"store_location\":\" " product " \"]",
     inputTextFieldHint: "Napisz coś",
     socketUrl: "https://test.qans.pl",
     socketPath: "/socket.io/",
     title: product,
     subtitle: "Twoje doświadczenia z tym sklepem",
-    embedded: "true",
+    embedded: "false",
     params: {"storage": "session"} // can be set to "local"  or "session". details in storage section.
   })
 </script>
