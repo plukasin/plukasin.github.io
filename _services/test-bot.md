@@ -13,7 +13,6 @@ Porozmawiaj z naszym botem o Twoich doświadczeniach ze sklepem Ikea.
 <script>
   WebChat.default.init({
     selector: "#webchat",
-    customData: {"userId": "123"},
     initPayload: "/przywitaj",
     inputTextFieldHint: "Napisz coś",
     socketUrl: "https://test.qans.pl",
