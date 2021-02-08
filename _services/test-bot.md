@@ -13,14 +13,13 @@ Porozmawiaj z naszym botem o Twoich doświadczeniach ze sklepem Ikea.
 <script>
   WebChat.default.init({
     selector: "#webchat",
-    initPayload: "/przywitaj",
+    initPayload: "/przywitaj[\"store_location\":\"warszawa\"]",
     inputTextFieldHint: "Napisz coś",
     socketUrl: "https://test.qans.pl",
     socketPath: "/socket.io/",
     title: "Rozmowa o Ikea",
     subtitle: "Twoje doświadczenia z tym sklepem",
     embedded: "true",
-    user_id :"1",
     params: {"storage": "session"} // can be set to "local"  or "session". details in storage section.
   })
 </script>
