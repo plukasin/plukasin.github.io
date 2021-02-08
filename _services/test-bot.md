@@ -20,6 +20,7 @@ Porozmawiaj z naszym botem o Twoich doświadczeniach ze sklepem Ikea.
     title: "Rozmowa o Ikea",
     subtitle: "Twoje doświadczenia z tym sklepem",
     embedded: "true",
+    user_id :"1",
     params: {"storage": "session"} // can be set to "local"  or "session". details in storage section.
   })
 </script>
