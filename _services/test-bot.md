@@ -9,7 +9,6 @@ Porozmawiajmy o Twoich doświadczeniach ze sklepem Ikea.
 
 <div id="webchat"></div>
 <script src="https://cdn.jsdelivr.net/npm/rasa-webchat@0.11.11/lib/index.min.js"></script>
-Na dole znajduje się guzik do rozpoczęcia rozmowy. 
 
 <script>
   WebChat.default.init({
