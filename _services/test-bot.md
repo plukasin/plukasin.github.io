@@ -20,7 +20,6 @@ Na dole znajduje się guzik do rozpoczęcia rozmowy.
     socketPath: "/socket.io/",
     title: "Rozmowa o Ikea",
     subtitle: "Twoje doświadczenia z tym sklepem",
-    hideWhenNotConnected: false,
     params: {"storage": "session"} // can be set to "local"  or "session". details in storage section.
   })
   WebChat.open()
