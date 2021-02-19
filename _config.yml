@@ -3,7 +3,7 @@ exclude: ['README.md']
 permalink: pretty
 title: 'QANS'
 
-google_analytics_id: UA-188465523-1
+google_analytics_id:
 homepage:
   show_call_box: false
 logo:

@@ -1,14 +1,15 @@
 ---
-title: "Bot dla Klientów sklepu Ikea"
+title: "Badanie Satysfakcji Klientów Sklepu Ikea"
 date: 2018-11-28T15:14:39+10:00
 featured: true
 weight: 3
 ---
 
-Porozmawiaj z naszym botem o Twoich doświadczeniach ze sklepem Ikea.
+Porozmawiajmy o Twoich doświadczeniach ze sklepem Ikea.
 
 <div id="webchat"></div>
 <script src="https://cdn.jsdelivr.net/npm/rasa-webchat@0.11.11/lib/index.min.js"></script>
+Na dole znajduje się guzik do rozpoczęcia rozmowy. 
 
 <script>
   WebChat.default.init({
@@ -19,7 +20,7 @@ Porozmawiaj z naszym botem o Twoich doświadczeniach ze sklepem Ikea.
     socketPath: "/socket.io/",
     title: "Rozmowa o Ikea",
     subtitle: "Twoje doświadczenia z tym sklepem",
-    embedded: true,
+    hideWhenNotConnected: false,
     params: {"storage": "session"} // can be set to "local"  or "session". details in storage section.
   })
 </script>
