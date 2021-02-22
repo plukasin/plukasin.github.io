@@ -1,8 +1,8 @@
 ---
 title: "Badanie Satysfakcji Klientów Sklepu Ikea"
 date: 2018-11-28T15:14:39+10:00
-featured: true
-weight: 3
+featured: false
+weight: 5
 ---
 
 Porozmawiajmy o Twoich doświadczeniach ze sklepem Ikea.
