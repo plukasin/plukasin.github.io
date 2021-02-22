@@ -2,7 +2,6 @@
 title: "Rozmowa o sklepie Ikea"
 date: 2018-11-28T15:14:39+10:00
 featured: false
-weight: 4
 ---
 
 Porozmawiaj z naszym botem o Twoich doświadczeniach ze sklepem Ikea.
