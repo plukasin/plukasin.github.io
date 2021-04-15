@@ -21,12 +21,12 @@ layout: services
 Firmy wiedzą jaką wartość chcą wytwarzać, ale często nie rozumieją jej z perspektywy klienta. 
 Błędnie zakładają, że to co ma wartość dla nich, ma też wartość dla klienta.
 
-A więc zacznij od tych założeń i sprawdź co ludzie w organizacji uważają, że jest ważne dla klientów. Następnie porównaj to z tym co mówią klienci. Znajdź różnicę i pracuj nad zmniejszeniem różnicy. W ten sposób zapewnisz, że wysiłki wszystkich w Twojej organizacji przełożą się bezpośrednio na zadowolenie klientów. 
+A więc zacznij od tych założeń i sprawdź co ludzie w organizacji uważają, że jest ważne dla klientów. Następnie porównaj to z tym co mówią klienci. Znajdź różnicę i pracuj nad jej zmniejszeniem. W ten sposób zapewnisz, że wysiłki wszystkich w Twojej organizacji przełożą się bezpośrednio na zadowolenie klientów. 
 
 ## Jak to zrobić w duchu Agile? 
 Drobnymi krokami.
 
-Najpierw poproś pracowników aby opisali dlaczego klienci polecają Wasz produkt. Mogą to zrobić bezpośrednio w sesji z chatbotem, w e-mailu itp. Zbierz też opis istniejących rozwiązań na bolączki klientów o których już wiesz. Może klienci nie wiedzą o jakiejś opcji i ich reklamacje są do uniknięcia.
+Najpierw poproś pracowników aby opisali dlaczego klienci polecają Wasz produkt. Mogą to zrobić bezpośrednio w sesji z chatbotem, w e-mailu itp. Zbierz też listę istniejących rozwiązań na problemy klientów. Może klienci nie wiedzą o jakiejś opcji i ich reklamacje są do uniknięcia.
 Użyj tych danych do wytrenowania chatbota który będzie prowadził dialog bezpośrednio z klientami.
 
 Następnie zaproś do badania NPS klientów. 
@@ -41,7 +41,7 @@ Możesz użyć metody Toyoty [5 razy dlaczego](https://pl.wikipedia.org/wiki/Met
 
 ## Różnica między tradycyjnym badaniem a wykorzystaniem czatbota
 
-1. W tradycyjnym badaniu osoby z Twojej organizacji i agencji badawczej zastanawiają się jakie pytania zadać klientowi.
+1. W tradycyjnym badaniu osoby z Twojej organizacji i agencji badawczej zastanawiają się jakie pytania zadać klientom.
 2. Następnie ankietują grupę klientów i dostarczają organizazji dane na temat odpowiedzi wraz z różnymi prezentacjami i podsumowaniami. 
 3. Osoby w organizacji odpowiedzialne na Jakość, Sprzedaż, itp. analizują te dane i 
 4. Komunikują do zespołów (IT, Obsługi Klienta, itp.) pomysły na temat potencjalnych inicjatyw, które można wdrożyć aby poprawić NPS.
@@ -51,22 +51,25 @@ To bardzo długi proces. Po badaniu firma otrzymuje dużo danych i często nadal
 
 ## Badanie z wykorzystaniem czatbota
 
-1. W badaniu z chatbotem nie ma założeń, o co pytać klienta. Zadajemy mu tylko jedno pytanie. 
+1. W badaniu z chatbotem nie ma założeń, o co pytać klientów. Zadajemy tylko jedno pytanie. 
 2. Z uzasadnienia i dialogu, jeśli uda się go rozwinąć z klientem, otrzymasz wskaźniki pokazujące jak pewne tematy przekładają się na NPS.
 
 ![Badanie NPS Obecnie](/images/IMG_3681-1.jpeg)
 
-Możesz zmierzyć skalę, ile osób wspomina o czymś, i zabarwienie (wysoki vs niski NPS). Dodatkowo w czasie dialogu możesz edukować klienta. 
+Możesz zmierzyć skalę, ile osób wspomina o czymś, i zabarwienie (wysoki vs niski NPS). Dodatkowo w czasie dialogu możesz edukować klientów. 
 Po zebraniu pierwszej grupy rozmów możesz zaprojektować odpowiedzi i pytania dla aspektów wymagających zmian. Powtarzamy ten proces po zebraniu 5 tysięcy odpowiedzi.  To jak prowadzenie dialogu z Twoimi klientami na masową skalę. 
  
 Możesz kontynuować badanie i wykorzystywać bota do zbierania i rozwiązywania zgłaszanych przez klientów problemów. 
 
 ## Użyj czatbota
 
-- Dostępny jako Open Source
+Zobacz [demo chatbota] na przykładzie fikcyjnego badania NPS dla sklepu Ikea. 
+Jeśli podoba Ci się ten pomysł wykorzystaj nasz system do badania w Twojej organizacji.
+Zalety naszego chatbota NPS:
+- Dostępny jako Open Source (możesz go używać i dowolnie modyfikowac bezpłatnie). [Kod](https://github.com/QANS-repo/NPS-bot) i instrukcja instalacji. 
 - Lokalna instalacja (wszstkie dialogi przechowywane i przetwarzane są lokalnie). Masz pełną kontrolę nad danymi.
 - Oferujemy komercyjne (płatne) usługi wsparcia instalacji lokalnie lub w wybranej przez Ciebie chmurze (AWS, Azure, itp)
-
+- Nieustannie rozwijamy ten system. Masz pytania lub pomysły napisz. 
 
 ![Meme](/images/illustrations/110165521_3147570258659626_6549190786476460560_n.jpg)
 
