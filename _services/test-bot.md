@@ -23,7 +23,7 @@ Badanie Satysfakcji Klientów Sklepu Ikea
     subtitle: "Twoje doświadczenia z IKEA",
     params: {"storage": "session"} // can be set to "local"  or "session". details in storage section.
   })
-  WebChat.open();
+  WebChat.open()
 </script>
 
 <script>!(function () {
