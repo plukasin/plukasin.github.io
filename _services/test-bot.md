@@ -11,7 +11,7 @@ Badanie Satysfakcji Klientów Sklepu Ikea
 <script src="https://cdn.jsdelivr.net/npm/rasa-webchat@0.11.11/lib/index.min.js"></script>
 
 <script>
-
+  WebChat.open();
   WebChat.default.init({
     selector: "#webchat",
     initPayload: "/przywitaj",
@@ -22,7 +22,7 @@ Badanie Satysfakcji Klientów Sklepu Ikea
     subtitle: "Twoje doświadczenia z IKEA",
     params: {"storage": "session"} // can be set to "local"  or "session". details in storage section.
   })
-  window.onload = WebChat.open;
+
 </script>
 
 <script>!(function () {
