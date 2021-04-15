@@ -1,11 +1,11 @@
 ---
-title: "Badanie Satysfakcji Klientów Sklepu Ikea"
+title: "Demo Działania Chatbota NPS"
 date: 2018-11-28T15:14:39+10:00
 featured: true
 weight: 3
 ---
 
-Porozmawiajmy o Twoich doświadczeniach ze sklepem Ikea.
+Badanie Satysfakcji Klientów Sklepu Ikea
 
 <div id="webchat"></div>
 <script src="https://cdn.jsdelivr.net/npm/rasa-webchat@0.11.11/lib/index.min.js"></script>
@@ -32,10 +32,19 @@ Twoja odpowiedź jest wstępem do rozmowy na temat tego co Ci się podoba, a co 
 
 W miarę swoich możliwości, bot będzie się starał podać Ci rozwiązania problemów, które zgłaszasz.  
     
-## Nieustannie udoskonalamy bota
+## Analiza wyników na żywo 
 
-Twoja rozmowa z botem pomoże nam go nauczyć nowych zwrotów i tematów.
-Dziękujemy za pomoc!
+W tym [arkuszu w Google](https://docs.google.com/spreadsheets/d/1z75IvbADrUG6475gyoXVgpmciNvje0NsHi4xcOg17O0/edit?usp=sharing)
+ możesz śledzić jak rozmowa na żywo jest analizowana i zamieniana na tematy (spekty). 
+Połączenie z Google Sheet jest dla demonstracyji. Przy większych badaniach zalecamy zapisanie tych danych lokalnie.  
+Poniżej umieszczona jest prosta wizualizacja danych zapisanych w arkuszu. 
+<iframe width="600" height="493" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQu73zPf0UhLO0UrY5Oce9RcUHaYnz4kt2ZSXyaC60kFIKupw4KarkOfNIiHRgp4dkkvrdWDzjeNVbs/pubchart?oid=1224597091&amp;format=interactive"></iframe> 
+
+Spróbuj poruszyć jeden z tematów (np. kolejek przy kasach, dostwy lub inny) i zobacz jak natychmiast Twoja odpowiedź zostanie zaklasyfikowana do odpowiedniego koszyka.
+Dodatkowe informacje znajdziesz w [dokumentacji](https://github.com/QANS-repo/NPS-bot).
+System jest oparty o AI i jego możliwości rosną wraz z liczbą przykładów (rozmów które przeprowadział)
+ 
+
 
 
 
