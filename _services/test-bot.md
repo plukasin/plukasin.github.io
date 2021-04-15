@@ -27,7 +27,7 @@ Badanie Satysfakcji Klientów Sklepu Ikea
           subtitle: "Twoje doświadczenia z IKEA",
           // add other props here
         },
-        #webchat
+        "#webchat"
       );
     }),
     t.insertBefore(e, t.firstChild);
