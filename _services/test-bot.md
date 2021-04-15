@@ -7,6 +7,7 @@ weight: 3
 
 Badanie Satysfakcji Klientów Sklepu Ikea
 
+<div id="webchat"></div>
 
 <script>!(function () {
   let e = document.createElement("script"),
@@ -26,9 +27,8 @@ Badanie Satysfakcji Klientów Sklepu Ikea
           subtitle: "Twoje doświadczenia z IKEA",
           // add other props here
         },
-        null
+        #webchat
       );
-      window.WebChat.Open()
     }),
     t.insertBefore(e, t.firstChild);
 })();
