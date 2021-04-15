@@ -31,6 +31,7 @@ Badanie Satysfakcji Klientów Sklepu Ikea
     }),
     t.insertBefore(e, t.firstChild);
 })();
+window.WebChat.Open()
 </script>
 
 ## Przebieg rozmowy
