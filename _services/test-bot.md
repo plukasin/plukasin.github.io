@@ -28,10 +28,11 @@ Badanie Satysfakcji Klientów Sklepu Ikea
         },
         null
       );
+      window.WebChat.Open()
     }),
     t.insertBefore(e, t.firstChild);
 })();
-window.WebChat.Open()
+
 </script>
 
 ## Przebieg rozmowy
