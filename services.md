@@ -10,18 +10,19 @@ layout: services
 - Analizuje tekst uzasadnienia odpowiedzi i generuje analizę głównych czynników poprawiających i osłabiających NPS. 
 - W trakcie interakcji z klientem poprawia NPS rozwiązując problem zgłoszony przez klienta.
 
+Zobacz [demo chatbota](https://www.qans.pl/services/test-bot/) i zobacz jak odpowiedzi są na żywo zamieniane w dane. 
+Możesz wykorzystać ten system do badania w Twojej organizacji. Dostępny jako Open Source (możesz go używać i dowolnie modyfikowac bezpłatnie). [Kod](https://github.com/QANS-repo/NPS-bot) i instrukcja instalacji.
+
 ## Długa odpowiedź
 
 **Co zrobić by podnieść NPS?”** 
-**Skup się na tym co ma wartość dla klienta**
+**Skup się na tym co ma wartość dla klienta.**
  
 >|**"Co ma wartość dla klienta** to może być najważniejsze pytanie. A jednak jest ono tak żadko zadawane."
 >|[Peter Drucker](https://www.drucker.institute/wp-content/uploads/2018/08/Reading_Drucker-on-What-the-Customer-Values.pdf)
 
 Firmy wiedzą jaką wartość chcą wytwarzać, ale często nie rozumieją jej z perspektywy klienta. 
-Błędnie zakładają, że to co ma wartość dla nich, ma też wartość dla klienta.
-
-A więc zacznij od tych założeń i sprawdź co ludzie w organizacji uważają, że jest ważne dla klientów. Następnie porównaj to z tym co mówią klienci. Znajdź różnicę i pracuj nad jej zmniejszeniem. W ten sposób zapewnisz, że wysiłki wszystkich w Twojej organizacji przełożą się bezpośrednio na zadowolenie klientów. 
+Sprawdź co pracownicy w Twojej organizacji uważają za ważne dla klientów. Następnie porównaj to z tym co mówią klienci. Znajdź różnicę i pracuj nad jej zmniejszeniem. W ten sposób zapewnisz, że wysiłki wszystkich w Twojej organizacji przełożą się bezpośrednio na zadowolenie klientów. 
 
 ## Jak to zrobić w duchu Agile? 
 Drobnymi krokami.
@@ -33,9 +34,10 @@ Następnie zaproś do badania NPS klientów.
 Zamiast długiej ankiety zadaj im tylko jedno pytanie o NPS z prośbą o uzasadnienie. 
 > “Na ile byłabyś skłonna polecić (Firmę X) przyjacielowi lub koledze?”
 
-Klient opowie o tym co jest dla niego najważniejsze w uzasadnieniu swojego wyboru. Z tej pierwszej odpowiedzi z uzasadnieniem mamy możliwość przejścia do dialogu.
+W uzasadnieniu swojego wyboru klienci opowiedzą co jest dla nich najważniejsze. Z tej pierwszej odpowiedzi z uzasadnieniem możemy przejść do dialogu.
 Zaletą dialogu nad ankietą jest to, że zaczynamy tylko z jednym pytaniem, a to zwiększa poziom odpowiedzi i możemy zadawać następne na podstawie uzyskanych odpowiedzi. Klient sam decyduje kiedy zakończyć dialog.  
-W kontekście NPS nie tylko inaczej prowadzisz dialog z Promotorami, Neutralnymi czy Detraktorami, ale dzięki chatbotowi skupisz się na obszarze, którym interesuje się klient.
+Chatbot pozwala skupić się na obszarach, którymi interesują się klienci.
+Dodatkowo, w kontekście NPS, inaczej prowadzisz dialog z Promotorami, Neutralnymi czy Detraktorami.  
 
 Możesz użyć metody Toyoty [5 razy dlaczego](https://pl.wikipedia.org/wiki/Metoda_5_why), aby dojść do źródła problemu. 
 
@@ -63,13 +65,15 @@ Możesz kontynuować badanie i wykorzystywać bota do zbierania i rozwiązywania
 
 ## Użyj czatbota
 
-Zobacz [demo chatbota] na przykładzie fikcyjnego badania NPS dla sklepu Ikea. 
-Jeśli podoba Ci się ten pomysł wykorzystaj nasz system do badania w Twojej organizacji.
-Zalety naszego chatbota NPS:
+Zobacz [demo chatbota](https://www.qans.pl/services/test-bot/), weź udział w badaniu i zobacz jak odpowiedzi są na żywo zamieniane w dane. 
+Możesz wykorzystać ten system do badania w Twojej organizacji.
+
+Zalety chatbota NPS:
 - Dostępny jako Open Source (możesz go używać i dowolnie modyfikowac bezpłatnie). [Kod](https://github.com/QANS-repo/NPS-bot) i instrukcja instalacji. 
 - Lokalna instalacja (wszstkie dialogi przechowywane i przetwarzane są lokalnie). Masz pełną kontrolę nad danymi.
-- Oferujemy komercyjne (płatne) usługi wsparcia instalacji lokalnie lub w wybranej przez Ciebie chmurze (AWS, Azure, itp)
-- Nieustannie rozwijamy ten system. Masz pytania lub pomysły napisz. 
+- Komercyjne (płatne) usługi wsparcia instalacji lokalnie lub w chmurze (AWS, Azure, itp)
+- Dostępna wersja Software as a Service. Pełna usługa skonfigurowania, wytrenowania i prowadzenia badania na Twoich klientach.
+- System jest w ciągłym rozwoju. Masz pytania lub pomysły napisz. 
 
 ![Meme](/images/illustrations/110165521_3147570258659626_6549190786476460560_n.jpg)
 

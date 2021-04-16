@@ -1,5 +1,5 @@
 main:
-  - name: "Wypróbuj Czatbota"
+  - name: "Wypróbuj Chatbota"
     url: "/services/test-bot/"
     weight: 1
   - name: "Jak poprawić NPS"
