@@ -22,13 +22,12 @@ weight: 3
   
 </script>
 
-### Przykład badania satysfakcji klientów sklepu Ikea 
+## Przykład badania satysfakcji klientów sklepu Ikea 
 
 - W oknie chatbota odpowiedz na pytanie o ocenę i uzasadnienie.
 - System analizuje odpowiedzi i generuje analizę głównych czynników poprawiających i osłabiających NPS.
-- W trakcie interakcji chatbot proponuje interwencję (poprawia NPS) proponując rozwiązania.
-
-Kod udostępniony jako Open Source na [github.com](https://github.com/QANS-repo/NPS-bot).
+- W trakcie interakcji chatbot proponuje interwencję (poprawia NPS) proponując rozwiązania.  
+- Kod udostępniony jako Open Source na [github.com](https://github.com/QANS-repo/NPS-bot).
  
 ## Analiza wyników na żywo 
 
@@ -42,7 +41,7 @@ Poniżej umieszczona jest prosta wizualizacja danych zapisanych w arkuszu. Ten w
 Program jest dostępny jako open source i możesz go dowolnie używać i modyfikować.  
 
 Jakość klasyfikacji rośnie wraz z liczbą przeprowadzonych rozmów, po naniesieniu poprawek i przetrenowaniu modelu.
-Więcej infomacji jak wykorzystać chatbota znajdziesz w zakładce [Jak poprawić NPS](https://www.qans.pl/services/) oraz w [dokumentacji](https://github.com/QANS-repo/NPS-bot).  
+Więcej infomacji jak wykorzystać chatbota znajdziesz w zakładce [jak poprawić NPS](https://www.qans.pl/services/) oraz w [dokumentacji](https://github.com/QANS-repo/NPS-bot).  
 
 Połączenie z Google Sheet jest dla demonstracji. Przy większych badaniach zalecamy zapisanie tych danych w lokalnej bazie danych i udostępnienie w Excelu/ Tableau etc.  
 
