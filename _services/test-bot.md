@@ -44,14 +44,4 @@ Więcej infomacji jak wykorzystać chatbota znajdziesz w zakładce [jak poprawi�
 
 Połączenie z Google Sheet jest dla demonstracji. Przy większych badaniach zalecamy zapisanie tych danych w lokalnej bazie danych i udostępnienie w Excelu/ Tableau etc.  
 
- 
-
-
-
-
-
-
-
-
- 
-
+Możesz też zobaczyć demo integracji z [FB Messenger](https://www.qans.pl/services/test-bot-fb/),

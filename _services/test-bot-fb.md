@@ -30,9 +30,9 @@ weight: 3
 </div>
       
 
-Przykład badania satysfakcji klientów sklepu Ikea   
+Przykład integracji z FB messenger.   
 
-- W oknie chatbota odpowiedz na pytanie o ocenę i uzasadnienie.
+- Badanie może być prowadzone na stronie (jak tu) lub na Facebook. 
 - System analizuje odpowiedzi i generuje analizę głównych czynników poprawiających i osłabiających NPS.
 - W trakcie interakcji chatbot proponuje interwencję (poprawia NPS) proponując rozwiązania.  
  
